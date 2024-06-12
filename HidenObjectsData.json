@@ -1,0 +1,50 @@
+[
+{
+"id": 1,
+"imageUrl": "https://sun9-20.userapi.com/c10044/u65092135/62941391/x_4e619819.jpg",
+"imageName": "Ioz",
+"counter": 5
+},
+{
+"id": 2,
+"imageUrl": "https://naurok-test2.nyc3.digitaloceanspaces.com/uploads/test/726923/1994339/583603_1676207192.png",
+"imageName": "Nusha",
+"counter": 10
+},
+{
+"id": 3,
+"imageUrl": "https://www.respublica.ru/uploads/00/00/00/6b/x0/large_d2526be8cab70af0.jpg",
+"imageName": "KarKari4",
+"counter": 12
+},
+{
+"id": 4,
+"imageUrl": "https://i1.sndcdn.com/artworks-9M4hgjMypAA2sEv0-x4Cc1Q-t500x500.jpg",
+"imageName": "Barani4",
+"counter": 13
+},
+{
+"id": 5,
+"imageUrl": "https://sun9-12.userapi.com/impf/FOgyGBg3paiygdXEJuODLlOAT2KfwrfZQNo8Tw/bNX9ozNlj8U.jpg?size=500x500&quality=96&sign=ee723a1b8d6fa4074cc570880f940f01&type=album",
+"imageName": "Sova",
+"counter": 14
+},
+{
+"id": 6,
+"imageUrl": "https://i1.sndcdn.com/avatars-000840421306-g5kx3z-t500x500.jpg",
+"imageName": "Kopati4",
+"counter": 8
+},
+{
+"id": 7,
+"imageUrl": "notValidLinkForExample.jpg",
+"imageName": "Kopati4",
+"counter": 8
+},
+{
+"id": 8,
+"imageUrl": "https://multsforkids.ru/data/uploads/personaji/losyash/losyash-kartinki-1.jpg",
+"imageName": "Losyash",
+"counter": 20
+}
+]
